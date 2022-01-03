@@ -1,0 +1,2 @@
+assignment answers --> https://github.com/suraggupta/coursera-machine-learning-solutions-python/blob/master/Exercise1/exercise1.ipynb
+assignment questions --> https://github.com/dibgerge/ml-coursera-python-assignments
