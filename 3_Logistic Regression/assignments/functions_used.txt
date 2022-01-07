@@ -1,0 +1,3 @@
+def plotData(X,y) --> scatter plot
+
+def sigmoid(z) --> return g
