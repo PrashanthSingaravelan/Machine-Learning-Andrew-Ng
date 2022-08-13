@@ -1,0 +1,11 @@
+def plotData(X,y) --> scatter plot
+
+def sigmoid(z) --> return g
+
+## Normal Cost Function
+def costFunction(theta, X, y): --> return J[cost] and gradient(theta)
+def predict(theta, X): --> return probability (either 1 or 0)
+
+## Regularized Cost Function
+def costFunctionReg(theta, X, y, lambda_): --> return J[cost] and gradient(theta)
+

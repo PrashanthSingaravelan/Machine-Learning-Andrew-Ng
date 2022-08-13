@@ -1,0 +1,4 @@
+assignment answers --> https://github.com/suraggupta/coursera-machine-learning-solutions-python
+assignment questions --> https://github.com/dibgerge/ml-coursera-python-assignments
+
+lecture notes --> https://pvgisours.tistory.com/51

@@ -1,0 +1,13 @@
+def plotData(x, y): --> scatter plot
+
+def computeCost(X, y, theta): --> J(theta)
+
+def gradientDescent(X, y, theta, alpha, num_iters): --> retunr (theta, J_history)
+
+def  featureNormalize(X): --> return (X_norm, mu, sigma)
+
+def computeCostMulti(X, y, theta): --> return J
+
+def gradientDescentMulti(X, y, theta, alpha, num_iters): --> return (theta, J_history)
+
+def normalEqn(X, y): --> return theta
