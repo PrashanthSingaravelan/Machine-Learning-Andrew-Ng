@@ -1,7 +1,7 @@
 # Machine-Learning-Andrew-Ng
 
 ## Supervised Machine Learning - Regression and Classification
-### 1_Introduction to Machine Learning
+### Week-1 Introduction to Machine Learning
 <ul>
 <li> <a href = 'https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Lecture%20Notes/Course-1_Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/1_Introduction%20to%20Machine%20Learning/1_Regression%20model.pdf'>Regression model</a></li>
 </ul>
@@ -10,6 +10,34 @@
 <li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Lecture%20Notes/Course-1_Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/1_Introduction%20to%20Machine%20Learning/2_Train%20the%20model%20with%20gradient%20descent.pdf'>Train the model with gradient descent</a></li>
 </ul>
 
+### Week-2 Regression with multiple input variables
+
+<ul>
+<li> <a href =''>Multiple Linear Regression</a></li>
+</ul>
+
+<ul>
+<li> <a href =''>Gradient Descent in Practice</a></li>
+</ul>
+
+
+### Week-3 Classification
+
+<ul>
+<li> <a href =''>Classification with Logistic Regression</a></li>
+</ul>
+
+<ul>
+<li> <a href =''>Cost Function for Logistic Regression</a></li>
+</ul>
+
+<ul>
+<li> <a href =''>Gradient Descent for Logistic Regression</a></li>
+</ul>
+
+<ul>
+<li> <a href =''>Problem of overfitting</a></li>
+</ul>
 
 ## Classification
 
