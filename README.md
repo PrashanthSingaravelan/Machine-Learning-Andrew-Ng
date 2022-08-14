@@ -1,4 +1,16 @@
 # Machine-Learning-Andrew-Ng
+
+## Supervised Machine Learning - Regression and Classification
+### 1_Introduction to Machine Learning
+<ul>
+<li a href = "">Regression model</a></li>
+</ul>
+
+<ul>
+<li a href = "">Train the model with gradient descent</a></li>
+</ul>
+
+
 ## Classification
 
 ### Techniques
