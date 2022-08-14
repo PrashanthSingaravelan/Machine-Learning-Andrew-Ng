@@ -3,11 +3,11 @@
 ## Supervised Machine Learning - Regression and Classification
 ### 1_Introduction to Machine Learning
 <ul>
-<li a href = "https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Lecture%20Notes/Course-1_Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/1_Introduction%20to%20Machine%20Learning/1_Regression%20model.pdf">Regression model</a></li>
+<li a href = 'https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Lecture%20Notes/Course-1_Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/1_Introduction%20to%20Machine%20Learning/1_Regression%20model.pdf'>Regression model</a></li>
 </ul>
 
 <ul>
-<li a href = "https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Lecture%20Notes/Course-1_Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/1_Introduction%20to%20Machine%20Learning/2_Train%20the%20model%20with%20gradient%20descent.pdf">Train the model with gradient descent</a></li>
+<li a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Lecture%20Notes/Course-1_Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/1_Introduction%20to%20Machine%20Learning/2_Train%20the%20model%20with%20gradient%20descent.pdf'>Train the model with gradient descent</a></li>
 </ul>
 
 
