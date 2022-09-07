@@ -13,11 +13,11 @@
 ### Week-2 Regression with multiple input variables
 
 <ul>
-<li> <a href =''>Multiple Linear Regression</a></li>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-1_Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/2_Regression%20with%20multiple%20input%20variables/lecture%20notes/1_Multiple%20Linear%20Regression.docx'>Multiple Linear Regression</a></li>
 </ul>
 
 <ul>
-<li> <a href =''>Gradient Descent in Practice</a></li>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-1_Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/2_Regression%20with%20multiple%20input%20variables/lecture%20notes/2_Gradient%20Descent%20in%20Practice.docx'>Gradient Descent in Practice</a></li>
 </ul>
 
 
