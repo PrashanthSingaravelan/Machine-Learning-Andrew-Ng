@@ -21,7 +21,7 @@
 </ul>
 
 <ul>
-<li> <a href = "">Programming Assignment : Linear regression</a>
+<li> <a href = "https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-1_Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/2_Regression%20with%20multiple%20input%20variables/assignment/C1_W2_Linear_Regression.ipynb">Programming Assignment : Linear regression</a>
 </li>
 </ul>
 
@@ -42,6 +42,19 @@
 <ul>
 <li> <a href =''>Problem of overfitting</a></li>
 </ul>
+
+## DataPreprocessing
+### Techniques
+<ul>
+<li><a href = "https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/ml_concepts/data-preprocessing/features.docx">Feature (extraction vs scaling vs engineering)</a>
+</li>
+</ul>
+
+<ul>
+<li><a href = "https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/ml_concepts/data-preprocessing/difference%20between%20correliation%20and%20vif.docx">Correlation vs VIF</a>
+</li>
+</ul>
+
 
 ## Classification
 
