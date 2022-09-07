@@ -20,6 +20,10 @@
 <li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-1_Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/2_Regression%20with%20multiple%20input%20variables/lecture%20notes/2_Gradient%20Descent%20in%20Practice.docx'>Gradient Descent in Practice</a></li>
 </ul>
 
+<ul>
+<li> <a href = "">Programming Assignment : Linear regression</a>
+</li>
+</ul>
 
 ### Week-3 Classification
 
