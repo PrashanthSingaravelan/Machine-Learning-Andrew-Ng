@@ -43,6 +43,43 @@
 <li> <a href =''>Problem of overfitting</a></li>
 </ul>
 
+## Advanced Learning Algorithms
+### Week-1 Neural Networks
+<ul>
+<li> <a href =''></a></li>
+</ul>
+
+### Week-2 Neural network training
+<ul>
+<li> <a href =''></a></li>
+</ul>
+
+### Week-3 Advice for applying machine learning
+<ul>
+<li> <a href =''></a></li>
+</ul>
+
+### Week-1 Decision trees
+<ul>
+<li> <a href =''></a></li>
+</ul>
+
+## Unsupervised Learning, Recommenders, Reinforcement Learning
+### Week-1 Unsupervised learning
+<ul>
+<li> <a href =''></a></li>
+</ul>
+
+### Week-2 Recommender systems
+<ul>
+<li> <a href =''></a></li>
+</ul>
+
+### Week-3 Reinforcement learning
+<ul>
+<li> <a href =''></a></li>
+</ul>
+
 ## DataPreprocessing
 ### Techniques
 <ul>
