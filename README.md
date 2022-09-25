@@ -46,7 +46,23 @@
 ## Advanced Learning Algorithms
 ### Week-1 Neural Networks
 <ul>
-<li> <a href =''></a></li>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/1_Neural%20Networks/lecture%20notes/1_Welcome.docx'>Welcome</a></li>
+</ul>
+
+<ul>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/1_Neural%20Networks/lecture%20notes/2_Neural%20Network%20Model.docx'>Neural Network Model</a></li>
+</ul>
+
+<ul>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/1_Neural%20Networks/lecture%20notes/3_Tensorflow%20Implementation.docx'>Tensorflow Implementation</a></li>
+</ul>
+
+<ul>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/1_Neural%20Networks/lecture%20notes/4_Neural%20Network%20implementation%20in%20Python.docx'>Neural Network implementation in Python</a></li>
+</ul>
+
+<ul>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/1_Neural%20Networks/lecture%20notes/5_AGI%20and%20Vectorization.docx'>5_AGI and Vectorization</a></li>
 </ul>
 
 ### Week-2 Neural network training
