@@ -62,13 +62,22 @@
 </ul>
 
 <ul>
-<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/1_Neural%20Networks/lecture%20notes/5_AGI%20and%20Vectorization.docx'>5_AGI and Vectorization</a></li>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/1_Neural%20Networks/lecture%20notes/5_AGI%20and%20Vectorization.docx'>AGI and Vectorization</a></li>
 </ul>
 
 ### Week-2 Neural network training
 <ul>
-<li> <a href =''></a></li>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/2_Neural%20network%20training/lecture%20notes/1_TensorFlow%20implementation.docx'>TensorFlow implementation</a></li>
 </ul>
+
+<ul>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/2_Neural%20network%20training/lecture%20notes/2_Activation%20Functions.docx'>Activation Functions</a></li>
+</ul>
+
+<ul>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/2_Neural%20network%20training/lecture%20notes/3_Multiclass_classification.docx'>Multiclass_classification</a></li>
+</ul>
+
 
 ### Week-3 Advice for applying machine learning
 <ul>
