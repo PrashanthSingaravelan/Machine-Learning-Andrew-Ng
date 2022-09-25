@@ -102,6 +102,8 @@
 <li> <a href = 'https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/ml_concepts/classification/confusion_matrix.docx'>Confusion Matrix</a> </li>
 <li> <a href = 'https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/ml_concepts/classification/ensemble%20learning.docx'>Ensemble Learning</a> </li>
 <li> <a href = 'https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/ml_concepts/classification/maximum_likelihood.docx'>Maximum Likelihood</a> </li>
+<li> <a href = 'https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/ml_concepts/classification/entropy.docx'>Entropy </a> </li>
+<li> <a href = 'https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/ml_concepts/classification/multiclass%20vs%20multilabel%20classification.docx'> Multi-class vs Multi-label classification </a> </li>
 </ul>
 
 ### Algorithms
