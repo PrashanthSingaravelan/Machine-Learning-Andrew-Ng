@@ -54,7 +54,7 @@
 </ul>
 
 <ul>
-<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/1_Neural%20Networks/lecture%20notes/3_Tensorflow%20Implementation.docx'>Tensorflow Implementation</a></li>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/1_Neural%20Networks/lecture%20notes/3_Tensorflow%20Implementation.docx'>TensorFlow Implementation</a></li>
 </ul>
 
 <ul>
@@ -75,7 +75,7 @@
 </ul>
 
 <ul>
-<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/2_Neural%20network%20training/lecture%20notes/3_Multiclass_classification.docx'>Multiclass_classification</a></li>
+<li> <a href ='https://github.com/PrashanthSingaravelan/Machine-Learning-Andrew-Ng/blob/main/Course-2%20Advanced%20Learning%20Algorithms/2_Neural%20network%20training/lecture%20notes/3_Multiclass_classification.docx'>Multiclass classification</a></li>
 </ul>
 
 
